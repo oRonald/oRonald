@@ -6,11 +6,19 @@
 
 ## Tools and Platforms
   
- [![My Skills](https://skillicons.dev/icons?i=eclipse,git,github,idea,vscode,stackoverflow,linkedin)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=eclipse,git,github,idea,vscode)](https://skillicons.dev)
 
-## Backend
+## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,spring,maven,postgres,mongodb,hibernate)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev) 
+
+## Frameworks and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=spring,hibernate,maven)](https://skillicons.dev)
+
+## Databases
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,)](https://skillicons.dev)
 
 ## Socials
 
