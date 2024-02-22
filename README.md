@@ -1,8 +1,8 @@
 ### Hello! I am Ronald and welcome to my GitHub👋
 
-![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=oRonold&show_icons=true&theme=onedark)
+[![oRonold's GitHub stats](https://github-readme-stats.vercel.app/api?username=oRonold&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oRonold&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oRonold&layout=compact&theme=dark)
 
 ## Tools and Platforms
   
