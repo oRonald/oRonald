@@ -6,11 +6,11 @@
 
 ## Tools and Platforms
   
- [![My Skills](https://skillicons.dev/icons?i=eclipse,git,github,idea,vscode)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=eclipse,git,github,idea,vscode,visualstudio)](https://skillicons.dev)
 
 ## Backend Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,py,cs)](https://skillicons.dev) 
 
 ## Frameworks and Tools
 
