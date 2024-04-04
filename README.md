@@ -1,4 +1,4 @@
-### Olá! Me chamo Ronald e seja Bem-Vindo(a) ao meu GitHub!👋
+### Olá! Me chamo Ronald e seja Bem-vindo(a) ao meu GitHub!👋
 
 - 🎓Sou estudante do segundo ano de Análise e Desenvolvimento de Sistemas pela FIAP!
 - 👨‍💻Com foco de estudos em Back-end venho me aprimorando em desenvolvimento Java com o Spring Framework.
