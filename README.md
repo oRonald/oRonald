@@ -16,9 +16,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,cs,spring,hibernate)](https://skillicons.dev) 
 
-## Frontend Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) 
-
 ## Databases
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,)](https://skillicons.dev)
