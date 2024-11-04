@@ -10,15 +10,21 @@
 
 ## Tools & Platforms
 
-  [![My Skills](https://skillicons.dev/icons?i=eclipse,git,github,idea,vscode,visualstudio,maven,azure,linux,docker&perline=7)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=eclipse,git,github,idea,vscode,visualstudio,maven,azure,docker&perline=7)](https://skillicons.dev)
 
 ## Backend Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,cs,spring,hibernate)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,py,cs,spring,hibernate,thymeleaf)](https://skillicons.dev) <P>![thymeleaf](https://github.com/user-attachments/assets/598f98a6-f69e-42db-a83e-694315b8405c)
+
+
+
+## Frontend Languages & Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev) 
 
 ## Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev) ![4430336](https://github.com/user-attachments/assets/0444a22e-73dd-46f5-a400-7a39e4ae3a9c)
 
 ## Socials
 
