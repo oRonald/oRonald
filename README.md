@@ -4,9 +4,9 @@
 - 👨‍💻Com foco de estudos em Back-end venho me aprimorando em desenvolvimento Java com o Spring Framework.
 #
 
-[![oRonold's GitHub stats](https://github-readme-stats.vercel.app/api?username=oRonold&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![oRonold's GitHub stats](https://github-readme-stats.vercel.app/api?username=oRonold&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oRonold&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oRonold&layout=compact&theme=radical)
 
 ## Tools & Platforms
 
