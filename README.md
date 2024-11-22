@@ -10,12 +10,15 @@
 
 ## Tools & Platforms
 
-  [![My Skills](https://skillicons.dev/icons?i=eclipse,git,github,idea,vscode,visualstudio,maven,azure,docker&perline=7)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=eclipse,git,github,idea,vscode,visualstudio,azure,docker&perline=7)](https://skillicons.dev)
 
-## Backend Languages & Frameworks
+## Backend Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,cs,spring,hibernate,thymeleaf)](https://skillicons.dev) <P>![thymeleaf](https://github.com/user-attachments/assets/598f98a6-f69e-42db-a83e-694315b8405c)
+[![My Skills](https://skillicons.dev/icons?i=java,py,cs)](https://skillicons.dev)
 
+ ## Framework
+
+ [![My Skills](https://skillicons.dev/icons?i=spring,dotnet,flask)](https://skillicons.dev)
 
 
 ## Frontend Languages & Frameworks
