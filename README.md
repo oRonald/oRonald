@@ -1,7 +1,7 @@
 ### Olá! Me chamo Ronald e seja Bem-vindo(a) ao meu GitHub!👋
 
-- 🎓Sou estudante do segundo ano de Análise e Desenvolvimento de Sistemas pela FIAP!
-- 👨‍💻Com foco de estudos em Back-end venho me aprimorando em desenvolvimento Java com o Spring Framework.
+- 🎓Sou atualmente formado em Análise e Desenvolvimento de Sistemas pela FIAP!
+- 👨‍💻Com foco de estudos em backend venho me aprimorando em desenvolvimento Java com o Spring Framework.
 #
 
 [![oRonold's GitHub stats](https://github-readme-stats.vercel.app/api?username=oRonold&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
