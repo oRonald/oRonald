@@ -1,7 +1,8 @@
-### Olá! Me chamo Ronald e seja Bem-vindo(a) ao meu GitHub!👋
+### Olá! Me chamo Ronald e seja bem-vindo(a) ao meu Github! 😃
 
 - 🎓Sou atualmente formado em Análise e Desenvolvimento de Sistemas pela FIAP!
 - 👨‍💻Com foco de estudos em backend venho me aprimorando em desenvolvimento Java com o Spring Framework.
+- 📧 Entre em contato comigo pelo email: <a href="mailto:ronaldfarias.oliveira@gmail.com">ronaldfarias.oliveira@gmail.com</a>
 #
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=oRonold&theme=dark)](https://git.io/streak-stats)
