@@ -5,7 +5,7 @@
 - 📧 Entre em contato comigo pelo email: ronaldfarias.oliveira@gmail.com
 - 📱 Conecte-se comigo no <a href="https://www.linkedin.com/in/ronald-de-oliveira-farias-274b411a3/">Linkedin</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=oRonold&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=oRonald&theme=dark)](https://git.io/streak-stats)
 
 <hr/>
 
