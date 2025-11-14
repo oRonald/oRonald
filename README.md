@@ -1,8 +1,8 @@
 ### Olá! Me chamo Ronald e seja bem-vindo(a) ao meu Github! 😃
 
-- 🎓Sou atualmente formado em Análise e Desenvolvimento de Sistemas pela FIAP!
-- 📧 Entre em contato comigo pelo email: ronaldfarias.oliveira@gmail.com
-- 📱 Conecte-se comigo no <a href="https://www.linkedin.com/in/ronald-de-oliveira-farias-274b411a3/">Linkedin</a>
+- 📓 Atualmente estou com estudos focados no desenvolvimento backend com Java e Spring!
+- 🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela FIAP (Faculdade de Informática e Administração Paulista)
+- 📧📱 Entre em contato comigo pelo email: ronaldfarias.oliveira@gmail.com ou se conecte comigo no: <a href="https://www.linkedin.com/in/ronald-de-oliveira-farias-274b411a3/">Linkedin</a>
 
 <hr/>
 
