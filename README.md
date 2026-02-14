@@ -6,4 +6,4 @@
 
 <hr/>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,spring,azure,postgres,mysql,docker,mongodb,rabbitmq)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,spring,azure,postgres,mysql,docker,mongodb,redis,rabbitmq)](https://skillicons.dev)
